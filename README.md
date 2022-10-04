@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Eduards and I'm a Creative Computing student at Queen Mary University of London.
+
+💬 Reach me by email or LinkedIn: lisovskis.eduards@gmail.com | www.linkedin.com/in/eduards-lisovskis
+
+
 <!--
 **ed-w-ds/ed-w-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
