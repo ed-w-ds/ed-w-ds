@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 My name is Eduards and I'm a Creative Computing student at Queen Mary University of London.
 
