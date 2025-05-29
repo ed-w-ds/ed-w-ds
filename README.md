@@ -7,8 +7,6 @@ Research Intern developing CISO dashboard for UKRI-backed cybersecurity system
 
 Ex-Tech Developer Intern at Barclays
 
-Head of Technology at QMUL Fintech Society
-
 ## Contact
 Email: lisovskis.eduards@gmail.com
 LinkedIn: [eduards-lisovskis](https://www.linkedin.com/in/eduards-lisovskis)
