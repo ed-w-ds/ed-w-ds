@@ -1,5 +1,5 @@
 ## About me
-Computer Science student at Queen Mary University of London (2022-2025)
+Computer Science graduate, Queen Mary University of London (2022-2025)
 
 Research Intern developing CISO dashboard for UKRI-backed cybersecurity system
 
